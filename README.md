@@ -1,5 +1,7 @@
 # scouts-honor
-This is the write up for the challenge I made for JerseyCTF III.
+This is the write up for the challenge I made for JerseyCTF III.<br>
+<br>
+<br>
 
 
 * If you picked up on the title of this challenge you can tell there are some descriptions of Scouts BSA magazine called Scout Life. From there it is somewhat straight forward from there.
